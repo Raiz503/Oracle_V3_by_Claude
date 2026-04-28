@@ -1,0 +1,5 @@
+streamlit
+easyocr
+pandas
+matplotlib
+opencv-python-headless
